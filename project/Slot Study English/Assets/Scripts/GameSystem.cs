@@ -8,7 +8,7 @@ public class GameSystem : MonoBehaviour
 	//　スタートボタンを押したら実行する
 	public void StartGame()
 	{
-		SceneManager.LoadScene("Slot Study English");
+		SceneManager.LoadScene("Main");
 	}
 
 	//　ゲーム終了ボタンを押したら実行する
